@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 A simple calculator app using react js for frontend
+
+The project was hosted in the github for chaecking the github hosting process
