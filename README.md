@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 A simple calculator app using react js for frontend
 
 The project was hosted in the github for chaecking the github hosting process
+
+The GitHub hosting is a free to host platform for the GitHub projects. It was very easy to deploy and maintain. 
