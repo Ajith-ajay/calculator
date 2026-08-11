@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./App.css"; // Optional CSS styling
 
 function App() {
@@ -41,7 +41,7 @@ function App() {
         <button onClick={() => handleClick("1")}>1</button>
         <button onClick={() => handleClick("2")}>2</button>
         <button onClick={() => handleClick("3")}>3</button>
-        <button onClick={() => handleClick("0")} className="zero">
+        <button onClick={() => handleClick("0")} className="zero ajith">
           0
         </button>
         <button onClick={handleCalculate} className="equals">
